@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 8,
-        "description": "Adds copper to various recipes"
+        "pack_format": 15,
+        "description": "Changes some redstone-related recipes to include copper"
     }
 }
